@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidBasicOAuthActivity!</string>
+    <string name="app_name">Tweet Analysis</string>
+	<string name="twitter_callback">twitter-callback:///</string>
+	<string name="connecting">Please wait while connecting..</string>
+	<string name="no_network">No Network Connection. Please try again</string>
+	<string name="error_occured">Oops Something bad happen !!!</string>
+</resources>
